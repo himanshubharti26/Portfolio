@@ -11,7 +11,7 @@ import typescriptIcon from "../../assets/typescript-icon.svg";
 import vueIcon from "../../assets/vue-icon.svg";
 import boostrapIcon from "../../assets/bootstrap-icon.svg";
 import ScrollAnimation from "react-animate-on-scroll";
-import angularIcon from "../../assets/angular-icon.jpg"
+import angularIcon from "../../assets/angular-icon.jpeg"
 
 
 export function About() {
